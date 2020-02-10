@@ -1,0 +1,4 @@
+flush_period_s: 20
+instruments:
+  - BTC/USDT
+  - ETH/USDT
